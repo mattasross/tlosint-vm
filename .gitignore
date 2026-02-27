@@ -1,0 +1,9 @@
+# VM downloads (large OVA files)
+vm-download/
+
+# OSINT Vault (contains PII — do NOT commit)
+OSINT-Vault/
+
+# OS files
+.DS_Store
+Thumbs.db
