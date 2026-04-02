@@ -1,0 +1,4 @@
+[  145785ms] [ERROR] challenge-expired Search failed. @ https://epieos.com/_next/static/chunks/894-7fb705a5e9f3097b.js:0
+[  145788ms] [WARNING] Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.
+Element with focus: <iframe>
+Ancestor with aria-hidden: <div> @ https://epieos.com/#search:0
