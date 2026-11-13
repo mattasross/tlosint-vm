@@ -1,0 +1,8 @@
+version: 2
+updates:
+  # Workflow actions are pinned to commit hashes. This opens a pull request
+  # when a pinned action has a newer release, so the pins do not go stale.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
